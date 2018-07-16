@@ -1,7 +1,7 @@
 # Brain-Tumor-Segmentation-using-Deep-Neural-networks
 Keras implementation of paper by the same name
 
-I have uploaded the code in FinalCode.ipynb. For explanation of paper and the changes I have done, the information is in there with .pptx file and this readme also. For accessing the dataset, you need to create account with https://www.smir.ch/BRATS/Start2013.
+I have uploaded the code in FinalCode.ipynb. For explanation of paper and the changes I have done, the information is in there with .pptx file and this readme also. For accessing the dataset, you need to create account with https://www.smir.ch/BRATS/Start2013. For free access to GPU, refer to this Google Colab tutorial https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d or my previous repo https://github.com/jadevaibhav/Signature-verification-using-deep-learning.
 
 ## Resources
 https://arxiv.org/pdf/1505.03540.pdf
