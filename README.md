@@ -7,3 +7,4 @@ I have uploaded the code in FinalCode.ipynb. For explanation of paper and the ch
 https://arxiv.org/pdf/1505.03540.pdf
 
 ## Modifications
+Instead of two-way training process as mentioned in paper, I have used weighted-categorical-loss function for which weights are calculated per slice basis.
