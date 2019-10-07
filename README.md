@@ -1,7 +1,7 @@
 # Brain-Tumor-Segmentation-using-Deep-Neural-networks
 Keras implementation of paper by the same name
 
-### Note : AS evident from many latest papers and my discussion with author of this paper, Newer approaches perform much better on semantic segmentation task. If you are looking for implementing yourselves, you would like to implement these approaches and consider this work for starting point for understanding.
+#### Note : AS evident from many latest papers and my discussion with author of this paper, Newer approaches perform much better on semantic segmentation task. If you are looking for implementing yourselves, you would like to implement these approaches and consider this work for starting point for understanding.
 
 I have uploaded the code in FinalCode.ipynb. For explanation of paper and the changes I have done, the information is in there with .pptx file and this readme also. For accessing the dataset, you need to create account with https://www.smir.ch/BRATS/Start2013. For free access to GPU, refer to this Google Colab tutorial https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d or my previous repo https://github.com/jadevaibhav/Signature-verification-using-deep-learning. I am removing data and model files and uploading the code only. All the images I used here are from the paper only.
 
